@@ -1,0 +1,18 @@
+# Directorios generados por la compilación
+build/
+dist/
+
+# Archivos generados por NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Archivos compilados
+*.class
+
+# Paquetes generados
+*.jar
+*.war
+*.ear   
