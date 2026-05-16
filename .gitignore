@@ -16,3 +16,4 @@ nb-configuration.xml
 *.jar
 *.war
 *.ear   
+/Sesion11/nbproject/private/
